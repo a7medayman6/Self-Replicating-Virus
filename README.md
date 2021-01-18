@@ -1,7 +1,5 @@
 # SELF-REPLICATING VIRUS
 
-- ##  SCRIPT WRITTEN BY : [Ahmed Ayman](https://github.com/a7medayman6)
-
 ### Simple virus written in bash, the virus searches for other bash scripts and the copy itself into these scripts.
 
 #### Input
